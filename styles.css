@@ -18,7 +18,7 @@ body {
 
 /* Estilo para el header */
 #header {
-    font-size: 16px; /* Tamaño del texto */
+    font-size: 14px; /* Tamaño del texto */
     color: rgb(243, 255, 70); /* Color blanco */
     text-align: center; /* Texto centrado */
     position: absolute; /* Posicionamiento absoluto */
